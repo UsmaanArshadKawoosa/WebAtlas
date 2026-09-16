@@ -66,7 +66,7 @@
   {
     "name": "Skiper UI",
     "url": "https://skiper-ui.com/",
-    "category": "UI Components",
+    "category": "Animation & Interaction",
     "subcategory": "Component Libraries",
     "tags": [
       "React",
@@ -152,7 +152,7 @@
   {
     "name": "Motion Primitives",
     "url": "https://motion-primitives.com/",
-    "category": "UI Components",
+    "category": "Animation & Interaction",
     "subcategory": "Animated UI",
     "tags": [
       "React",

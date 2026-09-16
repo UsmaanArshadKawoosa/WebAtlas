@@ -16,21 +16,23 @@ WebAtlas is a curated collection of resources for designers and frontend develop
 
 ## Categories
 
-| Category | Link |
-|---|---|
-| 🎨 Design Inspiration | [Browse](resources/inspiration.md) |
-| 🧩 UI Components | [Browse](resources/ui-components.md) |
-| ✨ Animation & Interaction | [Browse](resources/animation.md) |
-| 🧊 3D & WebGL | [Browse](resources/3d.md) |
-| 🎨 Colors | [Browse](resources/colors.md) |
-| 🔤 Typography | [Browse](resources/typography.md) |
-| 🖼️ Assets | [Browse](resources/assets.md) |
-| 🔷 Icons | [Browse](resources/icons.md) |
-| 🤖 AI | [Browse](resources/ai.md) |
-| 🛠️ Developer Tools | [Browse](resources/developer-tools.md) |
-| 📐 Design Systems | [Browse](resources/design-systems.md) |
-| ♿ Accessibility | [Browse](resources/accessibility.md) |
-| 📚 Learning | [Browse](resources/learning.md) |
+Browse the categories below to discover curated resources for designing and building modern websites. Featured resources are shown directly for quick access; use **Browse** to explore the complete category.
+
+| Category | Featured Resources | Link |
+|---|---|---|
+| 🎨 Design Inspiration | [Recent Design](https://recent.design/) | [Browse →](resources/inspiration.md) |
+| 🧩 UI Components | [Aceternity UI](https://ui.aceternity.com/) · [Kokonut UI](https://kokonutui.com/) · [Watermelon UI](https://ui.watermelon.sh/) · [Grayblocks](https://grayblocks.net/) · [Originkit](https://originkit.dev/) | [Browse →](resources/ui-components.md) |
+| ✨ Animation & Interaction | [Motion](https://motion.dev/) · [React Spring](https://www.react-spring.dev/) · [Motion Primitives](https://motion-primitives.com/) · [Skiper UI](https://skiper-ui.com/) · [Particles by Casberry](https://particles.casberry.in/) | [Browse →](resources/animation.md) |
+| 🧊 3D & WebGL | [Spline](https://spline.design/) | [Browse →](resources/3d.md) |
+| 🎨 Colors | [Realtime Colors](https://www.realtimecolors.com/) | [Browse →](resources/colors.md) |
+| 🔤 Typography | — | [Browse →](resources/typography.md) |
+| 🖼️ Assets | — | [Browse →](resources/assets.md) |
+| 🔷 Icons | — | [Browse →](resources/icons.md) |
+| 🤖 AI | — | [Browse →](resources/ai.md) |
+| 🛠️ Developer Tools | — | [Browse →](resources/developer-tools.md) |
+| 📐 Design Systems | — | [Browse →](resources/design-systems.md) |
+| ♿ Accessibility | — | [Browse →](resources/accessibility.md) |
+| 📚 Learning | — | [Browse →](resources/learning.md) |
 
 ## Philosophy
 

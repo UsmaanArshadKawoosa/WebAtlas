@@ -63,3 +63,43 @@ Reusable UI components and component libraries for building modern interfaces.
 **Type:** Library
 
 [Visit](https://bklit.com/) · [GitHub](https://github.com/bklit/bklit-ui)
+
+### shadcn/ui
+
+> Beautifully designed, accessible React components built with Radix UI and Tailwind CSS that can be copied into and customized within your own project.
+
+**Tags:** React · Tailwind CSS · Radix UI · UI Components · Accessibility · TypeScript · Design Systems · Forms · Components
+
+**Type:** Library
+
+[Visit](https://ui.shadcn.com/) · [GitHub](https://github.com/shadcn-ui/ui)
+
+### 21st.dev
+
+> Community-driven collection of React UI components and blocks for building modern web interfaces.
+
+**Tags:** React · Tailwind CSS · UI Components · AI · Generative UI · Next.js · TypeScript · Components · Blocks · Frontend
+
+**Type:** Library
+
+[Visit](https://21st.dev/)
+
+### SmoothUI
+
+> Collection of animated React UI components and blocks for building modern web interfaces.
+
+**Tags:** React · Tailwind CSS · Motion · shadcn/ui · UI Components · UI Blocks · Animation · TypeScript · Accessibility · AI · MCP
+
+**Type:** Library
+
+[Visit](https://smoothui.dev/)
+
+### Unlumen UI
+
+> Collection of modern UI components and interactive effects for building web interfaces.
+
+**Tags:** React · Tailwind CSS · UI Components · Animation · Interaction · TypeScript · Web Design · Frontend
+
+**Type:** Library
+
+[Visit](https://ui.unlumen.com/)

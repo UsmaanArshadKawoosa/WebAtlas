@@ -20,17 +20,17 @@ Browse the categories below to discover curated resources for designing and buil
 
 | Category | Featured Resources | Link |
 |---|---|---|
-| 🎨 Design Inspiration | [Recent Design](https://recent.design/) | [Browse →](resources/inspiration.md) |
-| 🧩 UI Components | [Aceternity UI](https://ui.aceternity.com/) · [Kokonut UI](https://kokonutui.com/) · [Watermelon UI](https://ui.watermelon.sh/) · [Grayblocks](https://grayblocks.net/) · [Originkit](https://originkit.dev/) | [Browse →](resources/ui-components.md) |
-| ✨ Animation & Interaction | [Motion](https://motion.dev/) · [React Spring](https://www.react-spring.dev/) · [Motion Primitives](https://motion-primitives.com/) · [Skiper UI](https://skiper-ui.com/) · [Particles by Casberry](https://particles.casberry.in/) | [Browse →](resources/animation.md) |
-| 🧊 3D & WebGL | [Spline](https://spline.design/) | [Browse →](resources/3d.md) |
+| 🎨 Design Inspiration | [Recent Design](https://recent.design/) · [Pryzm Design](https://www.pryzmdesign.com/) · [In Progress Works](https://www.inprogress.works/) | [Browse →](resources/inspiration.md) |
+| 🧩 UI Components | [Aceternity UI](https://ui.aceternity.com/) · [Kokonut UI](https://kokonutui.com/) · [Watermelon UI](https://ui.watermelon.sh/) · [Grayblocks](https://grayblocks.net/) · [Originkit](https://originkit.dev/) · [shadcn/ui](https://ui.shadcn.com/) · [21st.dev](https://21st.dev/) | [Browse →](resources/ui-components.md) |
+| ✨ Animation & Interaction | [Motion](https://motion.dev/) · [React Spring](https://www.react-spring.dev/) · [Motion Primitives](https://motion-primitives.com/) · [Skiper UI](https://skiper-ui.com/) · [Particles by Casberry](https://particles.casberry.in/) · [DialKit](https://www.dialkit.dev/) · [Animista](https://animista.net/) | [Browse →](resources/animation.md) |
+| 🧊 3D & WebGL | [Spline](https://spline.design/) · [React Three Fiber](https://r3f.docs.pmnd.rs/) · [ContentCore](https://contentcore.xyz/) | [Browse →](resources/3d.md) |
 | 🎨 Colors | [Realtime Colors](https://www.realtimecolors.com/) | [Browse →](resources/colors.md) |
 | 🔤 Typography | — | [Browse →](resources/typography.md) |
-| 🖼️ Assets | — | [Browse →](resources/assets.md) |
-| 🔷 Icons | — | [Browse →](resources/icons.md) |
-| 🤖 AI | — | [Browse →](resources/ai.md) |
+| 🖼️ Assets | [Optic](https://www.playgrnd.tools/optic) · [LS Graphics](https://www.ls.graphics/) | [Browse →](resources/assets.md) |
+| 🔷 Icons | [Phosphor Icons](https://phosphoricons.com/) | [Browse →](resources/icons.md) |
+| 🤖 AI | [Ora](https://ora.ai/) | [Browse →](resources/ai.md) |
 | 🛠️ Developer Tools | — | [Browse →](resources/developer-tools.md) |
-| 📐 Design Systems | — | [Browse →](resources/design-systems.md) |
+| 📐 Design Systems | [Refero Styles](https://styles.refero.design/) | [Browse →](resources/design-systems.md) |
 | ♿ Accessibility | — | [Browse →](resources/accessibility.md) |
 | 📚 Learning | — | [Browse →](resources/learning.md) |
 

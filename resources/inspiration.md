@@ -13,3 +13,33 @@ A curated collection of resources for discovering exceptional website and UI des
 **Type:** Gallery
 
 [Visit](https://recent.design/)
+
+### Pryzm Design
+
+> Creative web design studio and experimental digital experience showcase.
+
+**Tags:** Web Design · Creative Development · Experiments · Digital Experiences · Creative Coding
+
+**Type:** Gallery
+
+[Visit](https://www.pryzmdesign.com/)
+
+### In Progress Works
+
+> Experimental web and digital work providing inspiration for creative website and interactive experiences.
+
+**Tags:** Web Design · Creative Development · Experiments · Digital Experiences · Inspiration · Creative Coding
+
+**Type:** Gallery
+
+[Visit](https://www.inprogress.works/)
+
+### SkeuDesign
+
+> Design inspiration focused on skeuomorphic and tactile visual interfaces.
+
+**Tags:** Skeuomorphism · UI Design · Design Inspiration · Web Design · Textures · Realistic UI · Visual Design
+
+**Type:** Gallery
+
+[Visit](https://skeudesign.com/)

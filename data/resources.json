@@ -235,5 +235,367 @@
     "description": "AI-driven particle simulation and real-time WebGL visualization engine. Control 20,000+ particles per frame.",
     "type": "Tool",
     "free": true
+  },
+  {
+    "name": "Pryzm Design",
+    "url": "https://www.pryzmdesign.com/",
+    "category": "Design Inspiration",
+    "subcategory": "Experimental Websites",
+    "tags": [
+      "Web Design",
+      "Creative Development",
+      "Experiments",
+      "Digital Experiences",
+      "Design Inspiration",
+      "Creative Coding"
+    ],
+    "description": "Creative web design studio and experimental digital experience showcase.",
+    "type": "Gallery",
+    "free": true
+  },
+  {
+    "name": "React Three Fiber",
+    "url": "https://r3f.docs.pmnd.rs/",
+    "category": "3D & WebGL",
+    "subcategory": "Three.js Ecosystem",
+    "tags": [
+      "React",
+      "Three.js",
+      "WebGL",
+      "3D",
+      "Interactive",
+      "Animation",
+      "TypeScript"
+    ],
+    "description": "React renderer for Three.js that enables interactive 3D and WebGL experiences using React.",
+    "type": "Library",
+    "open_source": true,
+    "free": true,
+    "technology": [
+      "React",
+      "Three.js",
+      "TypeScript"
+    ],
+    "github": "https://github.com/pmndrs/react-three-fiber"
+  },
+  {
+    "name": "DialKit",
+    "url": "https://www.dialkit.dev/",
+    "category": "Animation & Interaction",
+    "subcategory": "React Animation",
+    "tags": [
+      "Animation",
+      "Motion",
+      "React",
+      "UI",
+      "Interaction",
+      "Design Tools",
+      "Live Controls",
+      "Spring",
+      "Easing",
+      "Timeline"
+    ],
+    "description": "Motion design toolkit for tuning and controlling animations with live preview and timeline controls.",
+    "type": "Tool",
+    "free": true,
+    "technology": [
+      "React"
+    ],
+    "github": "https://github.com/joshpuckett/dialkit"
+  },
+  {
+    "name": "Refero Styles",
+    "url": "https://styles.refero.design/",
+    "category": "Design Systems",
+    "subcategory": "",
+    "tags": [
+      "Design Systems",
+      "AI",
+      "DESIGN.md",
+      "Design Tokens",
+      "Typography",
+      "Colors",
+      "Spacing",
+      "UI",
+      "Design References",
+      "AI Coding"
+    ],
+    "description": "Curated DESIGN.md examples and AI-readable design systems from real product websites, covering visual styles such as colors, typography, spacing, and components.",
+    "type": "Guide",
+    "free": true
+  },
+  {
+    "name": "Ora",
+    "url": "https://ora.ai/",
+    "category": "AI",
+    "subcategory": "AI Agent / Website Readiness",
+    "tags": [
+      "AI Agents",
+      "Agent Experience",
+      "AI Readiness",
+      "MCP",
+      "APIs",
+      "LLM",
+      "Developer Tools",
+      "Web Development",
+      "Agentic Web"
+    ],
+    "description": "AI-agent readiness platform for evaluating how websites and products can be discovered, understood, accessed, and used by AI agents.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Optic",
+    "url": "https://www.playgrnd.tools/optic",
+    "category": "Assets",
+    "subcategory": "Generative Art / Visual Effects",
+    "tags": [
+      "Generative Art",
+      "Posters",
+      "Patterns",
+      "Dithering",
+      "Animation",
+      "SVG",
+      "Textures",
+      "Creative Coding",
+      "Visual Effects",
+      "Backgrounds"
+    ],
+    "description": "Browser-based generative art tool for creating animated visual compositions with effects such as patterns, dithering, grain, and color controls.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "In Progress Works",
+    "url": "https://www.inprogress.works/",
+    "category": "Design Inspiration",
+    "subcategory": "Experimental Web / Creative Development",
+    "tags": [
+      "Web Design",
+      "Creative Development",
+      "Experiments",
+      "Digital Experiences",
+      "Inspiration",
+      "Creative Coding"
+    ],
+    "description": "Experimental web and digital work providing inspiration for creative website and interactive experiences.",
+    "type": "Gallery",
+    "free": true
+  },
+  {
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com/",
+    "category": "UI Components",
+    "subcategory": "React / Tailwind Components",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "Radix UI",
+      "UI Components",
+      "Accessibility",
+      "TypeScript",
+      "Design Systems",
+      "Forms",
+      "Components"
+    ],
+    "description": "Beautifully designed, accessible React components built with Radix UI and Tailwind CSS that can be copied into and customized within your own project.",
+    "type": "Library",
+    "open_source": true,
+    "free": true,
+    "technology": [
+      "React",
+      "Tailwind CSS",
+      "Radix UI",
+      "TypeScript"
+    ],
+    "github": "https://github.com/shadcn-ui/ui"
+  },
+  {
+    "name": "21st.dev",
+    "url": "https://21st.dev/",
+    "category": "UI Components",
+    "subcategory": "AI-Ready React Components",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "UI Components",
+      "AI",
+      "Generative UI",
+      "Next.js",
+      "TypeScript",
+      "Components",
+      "Blocks",
+      "Frontend"
+    ],
+    "description": "Community-driven collection of React UI components and blocks for building modern web interfaces.",
+    "type": "Library",
+    "free": true,
+    "technology": [
+      "React",
+      "Tailwind CSS",
+      "Next.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "Animista",
+    "url": "https://animista.net/",
+    "category": "Animation & Interaction",
+    "subcategory": "CSS Animation",
+    "tags": [
+      "CSS",
+      "Animation",
+      "Motion",
+      "CSS Generator",
+      "Web Design",
+      "UI",
+      "Transitions",
+      "Keyframes",
+      "Frontend"
+    ],
+    "description": "Visual CSS animation toolkit for browsing, customizing, previewing, and generating CSS animations.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Phosphor Icons",
+    "url": "https://phosphoricons.com/",
+    "category": "Icons",
+    "subcategory": "Open-Source Icon Libraries",
+    "tags": [
+      "Icons",
+      "SVG",
+      "React",
+      "Open Source",
+      "UI",
+      "Web Design",
+      "TypeScript",
+      "Figma",
+      "Vue",
+      "CSS"
+    ],
+    "description": "Flexible open-source icon library with icons available in multiple weights for web and application interfaces.",
+    "type": "Library",
+    "open_source": true,
+    "free": true,
+    "technology": [
+      "SVG",
+      "React",
+      "Vue",
+      "CSS"
+    ],
+    "github": "https://github.com/phosphor-icons/homepage"
+  },
+  {
+    "name": "LS Graphics",
+    "url": "https://www.ls.graphics/",
+    "category": "Assets",
+    "subcategory": "Illustrations, Mockups & 3D",
+    "tags": [
+      "Graphics",
+      "Illustrations",
+      "3D",
+      "Mockups",
+      "Animations",
+      "Design Assets",
+      "Textures",
+      "Web Design",
+      "Figma",
+      "Creative Assets"
+    ],
+    "description": "Design asset library offering graphics, illustrations, 3D resources, mockups, animations, and other visual assets for digital and web design.",
+    "type": "Asset",
+    "free": false
+  },
+  {
+    "name": "ContentCore",
+    "url": "https://contentcore.xyz/",
+    "category": "3D & WebGL",
+    "subcategory": "3D Assets & Templates",
+    "tags": [
+      "3D",
+      "3D Mockups",
+      "3D Motion",
+      "Motion Templates",
+      "3D Text",
+      "Logos",
+      "3D Icons",
+      "3D Shapes",
+      "Design Assets",
+      "Motion Design"
+    ],
+    "description": "Library of 3D design assets and templates including 3D mockups, motion templates, 3D text and logos, icons, and 3D shapes.",
+    "type": "Asset",
+    "free": true
+  },
+  {
+    "name": "SmoothUI",
+    "url": "https://smoothui.dev/",
+    "category": "UI Components",
+    "subcategory": "Animated React Components",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "Motion",
+      "shadcn/ui",
+      "UI Components",
+      "UI Blocks",
+      "Animation",
+      "TypeScript",
+      "Accessibility",
+      "AI",
+      "MCP"
+    ],
+    "description": "Collection of animated React UI components and blocks for building modern web interfaces.",
+    "type": "Library",
+    "free": true,
+    "technology": [
+      "React",
+      "Tailwind CSS",
+      "Motion",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "SkeuDesign",
+    "url": "https://skeudesign.com/",
+    "category": "Design Inspiration",
+    "subcategory": "Skeuomorphic Design",
+    "tags": [
+      "Skeuomorphism",
+      "UI Design",
+      "Design Inspiration",
+      "Web Design",
+      "Textures",
+      "Realistic UI",
+      "Visual Design"
+    ],
+    "description": "Design inspiration focused on skeuomorphic and tactile visual interfaces.",
+    "type": "Gallery",
+    "free": true
+  },
+  {
+    "name": "Unlumen UI",
+    "url": "https://ui.unlumen.com/",
+    "category": "UI Components",
+    "subcategory": "React / Tailwind Components",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "UI Components",
+      "Animation",
+      "Interaction",
+      "TypeScript",
+      "Web Design",
+      "Frontend"
+    ],
+    "description": "Collection of modern UI components and interactive effects for building web interfaces.",
+    "type": "Library",
+    "free": true,
+    "technology": [
+      "React",
+      "Tailwind CSS",
+      "TypeScript"
+    ]
   }
 ]

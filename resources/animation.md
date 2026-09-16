@@ -53,3 +53,23 @@ Animation libraries, interaction patterns, and motion resources for the web.
 **Type:** Tool
 
 [Visit](https://particles.casberry.in/)
+
+### Animista
+
+> Visual CSS animation toolkit for browsing, customizing, previewing, and generating CSS animations.
+
+**Tags:** CSS · Animation · Motion · CSS Generator · Web Design · UI · Transitions · Keyframes · Frontend
+
+**Type:** Tool
+
+[Visit](https://animista.net/)
+
+### DialKit
+
+> Motion design toolkit for tuning and controlling animations with live preview and timeline controls.
+
+**Tags:** Animation · Motion · React · UI · Interaction · Design Tools · Live Controls · Spring · Easing · Timeline
+
+**Type:** Tool
+
+[Visit](https://www.dialkit.dev/) · [GitHub](https://github.com/joshpuckett/dialkit)

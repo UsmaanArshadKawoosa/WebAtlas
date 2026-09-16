@@ -20,7 +20,7 @@ Browse the categories below to discover curated resources for designing and buil
 
 | Category | Featured Resources | Link |
 |---|---|---|
-| 🎨 Design Inspiration | [Recent Design](https://recent.design/) · [Pryzm Design](https://www.pryzmdesign.com/) · [In Progress Works](https://www.inprogress.works/) · [Variant](https://variant.com/) | [Browse →](resources/inspiration.md) |
+| 🎨 Design Inspiration | [Recent Design](https://recent.design/) · [Pryzm Design](https://www.pryzmdesign.com/) · [In Progress Works](https://www.inprogress.works/) · [Variant](https://variant.com/) · [Vivid Sites](https://www.vividsites.app/) | [Browse →](resources/inspiration.md) |
 | 🧩 UI Components | [Aceternity UI](https://ui.aceternity.com/) · [Kokonut UI](https://kokonutui.com/) · [Watermelon UI](https://ui.watermelon.sh/) · [Grayblocks](https://grayblocks.net/) · [Originkit](https://originkit.dev/) · [shadcn/ui](https://ui.shadcn.com/) · [21st.dev](https://21st.dev/) | [Browse →](resources/ui-components.md) |
 | ✨ Animation & Interaction | [Motion](https://motion.dev/) · [React Spring](https://www.react-spring.dev/) · [Motion Primitives](https://motion-primitives.com/) · [Skiper UI](https://skiper-ui.com/) · [Particles by Casberry](https://particles.casberry.in/) · [DialKit](https://www.dialkit.dev/) · [Animista](https://animista.net/) · [Raylight](https://www.raylight.app/) | [Browse →](resources/animation.md) |
 | 🧊 3D & WebGL | [Spline](https://spline.design/) · [React Three Fiber](https://r3f.docs.pmnd.rs/) · [ContentCore](https://contentcore.xyz/) | [Browse →](resources/3d.md) |

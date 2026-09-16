@@ -675,5 +675,24 @@
     "description": "Browser-based motion design tool for creating cinematic product and launch videos with editable 3D scenes, camera movement, lighting, animation, and templates.",
     "type": "Tool",
     "free": true
+  },
+  {
+    "name": "Vivid Sites",
+    "url": "https://www.vividsites.app/",
+    "category": "Design Inspiration",
+    "subcategory": "Website Inspiration / Galleries",
+    "tags": [
+      "Web Design",
+      "Website Inspiration",
+      "Design Gallery",
+      "UI Design",
+      "Creative Websites",
+      "Visual Design",
+      "Web Development",
+      "Inspiration"
+    ],
+    "description": "Curated collection of visually distinctive websites for discovering modern web design and creative digital experiences.",
+    "type": "Gallery",
+    "free": true
   }
 ]

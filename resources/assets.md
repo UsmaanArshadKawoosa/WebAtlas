@@ -23,3 +23,13 @@ Website assets including images, illustrations, SVGs, and more.
 **Type:** Asset
 
 [Visit](https://www.ls.graphics/)
+
+### Haikei
+
+> Generative design tool for creating customizable SVG and PNG visuals including blobs, waves, gradients, patterns, grids, and other backgrounds.
+
+**Tags:** Generative Design · SVG · Backgrounds · Patterns · Gradients · Blobs · Waves · Shapes · Design Tools · Visual Assets
+
+**Type:** Tool
+
+[Visit](https://haikei.app/)

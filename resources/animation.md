@@ -64,6 +64,16 @@ Animation libraries, interaction patterns, and motion resources for the web.
 
 [Visit](https://animista.net/)
 
+### Raylight
+
+> Browser-based motion design tool for creating cinematic product and launch videos with editable 3D scenes, camera movement, lighting, animation, and templates.
+
+**Tags:** Motion Design · Product Videos · 3D · Animation · Video Templates · Product Demos · Launch Videos · Motion Graphics · Web Design
+
+**Type:** Tool
+
+[Visit](https://www.raylight.app/)
+
 ### DialKit
 
 > Motion design toolkit for tuning and controlling animations with live preview and timeline controls.

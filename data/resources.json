@@ -597,5 +597,83 @@
       "Tailwind CSS",
       "TypeScript"
     ]
+  },
+  {
+    "name": "Variant",
+    "url": "https://variant.com/",
+    "category": "Design Inspiration",
+    "subcategory": "AI Design Exploration",
+    "tags": [
+      "AI",
+      "Design Generation",
+      "Design Exploration",
+      "UI Design",
+      "Web Design",
+      "Creative Direction",
+      "Design Inspiration"
+    ],
+    "description": "AI-powered design exploration platform for generating and exploring visual design variations.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Animaster",
+    "url": "https://www.animaster.com/",
+    "category": "Learning",
+    "subcategory": "Animation, VFX & Design Education",
+    "tags": [
+      "Animation",
+      "VFX",
+      "3D",
+      "Graphic Design",
+      "Game Art",
+      "Motion Graphics",
+      "Design Education",
+      "Learning"
+    ],
+    "description": "Design education platform offering training across animation, VFX, 3D, graphic design, game art, and related creative disciplines.",
+    "type": "Guide",
+    "free": true
+  },
+  {
+    "name": "Haikei",
+    "url": "https://haikei.app/",
+    "category": "Assets",
+    "subcategory": "Generative Design / Backgrounds",
+    "tags": [
+      "Generative Design",
+      "SVG",
+      "Backgrounds",
+      "Patterns",
+      "Gradients",
+      "Blobs",
+      "Waves",
+      "Shapes",
+      "Design Tools",
+      "Visual Assets"
+    ],
+    "description": "Generative design tool for creating customizable SVG and PNG visuals including blobs, waves, gradients, patterns, grids, and other backgrounds.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Raylight",
+    "url": "https://www.raylight.app/",
+    "category": "Animation & Interaction",
+    "subcategory": "Product Motion / Video",
+    "tags": [
+      "Motion Design",
+      "Product Videos",
+      "3D",
+      "Animation",
+      "Video Templates",
+      "Product Demos",
+      "Launch Videos",
+      "Motion Graphics",
+      "Web Design"
+    ],
+    "description": "Browser-based motion design tool for creating cinematic product and launch videos with editable 3D scenes, camera movement, lighting, animation, and templates.",
+    "type": "Tool",
+    "free": true
   }
 ]

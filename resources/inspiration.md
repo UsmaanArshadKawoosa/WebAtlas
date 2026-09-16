@@ -43,3 +43,13 @@ A curated collection of resources for discovering exceptional website and UI des
 **Type:** Gallery
 
 [Visit](https://skeudesign.com/)
+
+### Variant
+
+> AI-powered design exploration platform for generating and exploring visual design variations.
+
+**Tags:** AI · Design Generation · Design Exploration · UI Design · Web Design · Creative Direction · Design Inspiration
+
+**Type:** Tool
+
+[Visit](https://variant.com/)

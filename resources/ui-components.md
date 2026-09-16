@@ -103,3 +103,23 @@ Reusable UI components and component libraries for building modern interfaces.
 **Type:** Library
 
 [Visit](https://ui.unlumen.com/)
+
+### daisyUI
+
+> Tailwind CSS component library providing semantic component classes, themes, and ready-to-use UI patterns.
+
+**Tags:** Tailwind CSS · UI Components · CSS · Themes · React · Vue · Svelte · Web Design · Responsive · Design Systems
+
+**Type:** Library
+
+[Visit](https://daisyui.com/)
+
+### Magic UI
+
+> Collection of animated React components and visual effects for building modern web interfaces.
+
+**Tags:** React · Tailwind CSS · Motion · Animation · UI Components · UI Blocks · Next.js · TypeScript · Web Design · Effects
+
+**Type:** Library
+
+[Visit](https://magicui.design/)

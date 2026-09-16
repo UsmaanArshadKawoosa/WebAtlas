@@ -75,7 +75,7 @@
       "Components",
       "Animation"
     ],
-    "description": "Un-common components for shadcn/ui — a growing collection of unique React components with animations.",
+    "description": "Un-common components for shadcn/ui \u00e2\u20ac\u201d a growing collection of unique React components with animations.",
     "type": "Library",
     "free": true
   },
@@ -693,6 +693,277 @@
     ],
     "description": "Curated collection of visually distinctive websites for discovering modern web design and creative digital experiences.",
     "type": "Gallery",
+    "free": true
+  },
+  {
+    "name": "FeralUI",
+    "url": "https://feralui.dev/",
+    "category": "Animation & Interaction",
+    "subcategory": "Physics-Driven UI",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Animation",
+      "Physics",
+      "Interactive UI",
+      "Creative Coding",
+      "WebGL",
+      "Motion",
+      "UI Experiments",
+      "3D"
+    ],
+    "description": "React and TypeScript UI experiments featuring playful, physics-driven interactive effects.",
+    "type": "Library",
+    "free": true
+  },
+  {
+    "name": "Brik",
+    "url": "https://brik.space/",
+    "category": "Animation & Interaction",
+    "subcategory": "Creative Design Tools",
+    "tags": [
+      "AI",
+      "Creative Coding",
+      "Motion Design",
+      "Generative Design",
+      "3D",
+      "WebGL",
+      "Interactive",
+      "Kinetic Typography",
+      "Visual Effects",
+      "Design Tools",
+      "Animation"
+    ],
+    "description": "Creative design platform for creating interactive, generative, motion, 3D, and visual design experiences.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Backgrounds Supply",
+    "url": "https://www.backgrounds.supply/",
+    "category": "Assets",
+    "subcategory": "Backgrounds & Gradients",
+    "tags": [
+      "Backgrounds",
+      "Gradients",
+      "AI Art",
+      "Animated Backgrounds",
+      "Wallpapers",
+      "Textures",
+      "Abstract",
+      "Visual Assets",
+      "Web Design",
+      "Motion Design"
+    ],
+    "description": "Library of backgrounds, gradients, textures, wallpapers, and animated visual assets for digital projects.",
+    "type": "Asset",
+    "free": true
+  },
+  {
+    "name": "Transitions.dev",
+    "url": "https://transitions.dev/",
+    "category": "Animation & Interaction",
+    "subcategory": "Page Transitions",
+    "tags": [
+      "Page Transitions",
+      "View Transitions",
+      "Animation",
+      "Motion",
+      "CSS",
+      "Web Design",
+      "JavaScript",
+      "UI",
+      "Interaction",
+      "Frontend"
+    ],
+    "description": "Resources and examples for creating smooth page, view, and interface transitions for modern websites.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Animos",
+    "url": "https://animos.app/",
+    "category": "Animation & Interaction",
+    "subcategory": "Motion Design / Showcase Templates",
+    "tags": [
+      "Motion Design",
+      "Animation",
+      "UI Animation",
+      "Design Showcases",
+      "Motion Templates",
+      "Video",
+      "MP4",
+      "WebM",
+      "Portfolio",
+      "Product Design"
+    ],
+    "description": "Browser-based tool for creating polished animated design showcases and motion content.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Deck.Gallery",
+    "url": "https://www.deck.gallery/",
+    "category": "Design Inspiration",
+    "subcategory": "Presentation & Deck Inspiration",
+    "tags": [
+      "Presentation Design",
+      "Pitch Decks",
+      "Slide Design",
+      "Brand Guidelines",
+      "Typography",
+      "Layout",
+      "Visual Design",
+      "Marketing",
+      "Portfolio",
+      "Design Inspiration"
+    ],
+    "description": "Curated gallery of presentation decks and slides for visual and presentation design inspiration.",
+    "type": "Gallery",
+    "free": true
+  },
+  {
+    "name": "Pikaicons",
+    "url": "https://pikaicons.com/",
+    "category": "Icons",
+    "subcategory": "Icon Libraries",
+    "tags": [
+      "Icons",
+      "SVG",
+      "React",
+      "Figma",
+      "UI",
+      "Web Design",
+      "Solid",
+      "Stroke",
+      "Design Systems",
+      "Icon Library"
+    ],
+    "description": "Icon library offering a large collection of icons in multiple styles for modern UI and web projects.",
+    "type": "Library",
+    "free": true
+  },
+  {
+    "name": "daisyUI",
+    "url": "https://daisyui.com/",
+    "category": "UI Components",
+    "subcategory": "Tailwind CSS Components",
+    "tags": [
+      "Tailwind CSS",
+      "UI Components",
+      "CSS",
+      "Themes",
+      "React",
+      "Vue",
+      "Svelte",
+      "Web Design",
+      "Responsive",
+      "Design Systems"
+    ],
+    "description": "Tailwind CSS component library providing semantic component classes, themes, and ready-to-use UI patterns.",
+    "type": "Library",
+    "free": true
+  },
+  {
+    "name": "Book of Shapes",
+    "url": "https://bookofshapes.com/",
+    "category": "Assets",
+    "subcategory": "Generative SVG Patterns",
+    "tags": [
+      "SVG",
+      "Generative Design",
+      "Patterns",
+      "Abstract",
+      "Backgrounds",
+      "Grid",
+      "Noise",
+      "Flow",
+      "Isometric",
+      "Organic",
+      "Creative Coding"
+    ],
+    "description": "Collection of minimal, generative, and customizable SVG patterns for creating abstract visual assets and backgrounds.",
+    "type": "Asset",
+    "free": true
+  },
+  {
+    "name": "Magic UI",
+    "url": "https://magicui.design/",
+    "category": "UI Components",
+    "subcategory": "Animated React Components",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "Motion",
+      "Animation",
+      "UI Components",
+      "UI Blocks",
+      "Next.js",
+      "TypeScript",
+      "Web Design",
+      "Effects"
+    ],
+    "description": "Collection of animated React components and visual effects for building modern web interfaces.",
+    "type": "Library",
+    "free": true
+  },
+  {
+    "name": "Threlte",
+    "url": "https://threlte.xyz/",
+    "category": "3D & WebGL",
+    "subcategory": "Svelte 3D / WebGL",
+    "tags": [
+      "Svelte",
+      "Three.js",
+      "WebGL",
+      "3D",
+      "Animation",
+      "Interactive",
+      "TypeScript",
+      "Creative Coding"
+    ],
+    "description": "Framework for building interactive 3D experiences with Three.js and Svelte.",
+    "type": "Library",
+    "free": true
+  },
+  {
+    "name": "Vectary",
+    "url": "https://www.vectary.com/",
+    "category": "3D & WebGL",
+    "subcategory": "3D Design / Modeling",
+    "tags": [
+      "3D",
+      "CAD",
+      "Modeling",
+      "Web Design",
+      "AR",
+      "Product Design",
+      "3D Assets",
+      "Interactive"
+    ],
+    "description": "Browser-based 3D design and modeling platform for creating and presenting interactive 3D content.",
+    "type": "Tool",
+    "free": true
+  },
+  {
+    "name": "Jitter",
+    "url": "https://jitter.video/",
+    "category": "Animation & Interaction",
+    "subcategory": "Motion Design Tools",
+    "tags": [
+      "Motion Design",
+      "Animation",
+      "UI Animation",
+      "Figma",
+      "Video",
+      "GIF",
+      "Product Demos",
+      "Motion Graphics",
+      "Prototyping",
+      "Web Design"
+    ],
+    "description": "Browser-based motion design tool for creating animated UI designs, product demos, motion graphics, and other visual content.",
+    "type": "Tool",
     "free": true
   }
 ]

@@ -20,14 +20,14 @@ Browse the categories below to discover curated resources for designing and buil
 
 | Category | Featured Resources | Link |
 |---|---|---|
-| 🎨 Design Inspiration | [Recent Design](https://recent.design/) · [Pryzm Design](https://www.pryzmdesign.com/) · [In Progress Works](https://www.inprogress.works/) · [Variant](https://variant.com/) · [Vivid Sites](https://www.vividsites.app/) | [Browse →](resources/inspiration.md) |
-| 🧩 UI Components | [Aceternity UI](https://ui.aceternity.com/) · [Kokonut UI](https://kokonutui.com/) · [Watermelon UI](https://ui.watermelon.sh/) · [Grayblocks](https://grayblocks.net/) · [Originkit](https://originkit.dev/) · [shadcn/ui](https://ui.shadcn.com/) · [21st.dev](https://21st.dev/) | [Browse →](resources/ui-components.md) |
-| ✨ Animation & Interaction | [Motion](https://motion.dev/) · [React Spring](https://www.react-spring.dev/) · [Motion Primitives](https://motion-primitives.com/) · [Skiper UI](https://skiper-ui.com/) · [Particles by Casberry](https://particles.casberry.in/) · [DialKit](https://www.dialkit.dev/) · [Animista](https://animista.net/) · [Raylight](https://www.raylight.app/) | [Browse →](resources/animation.md) |
-| 🧊 3D & WebGL | [Spline](https://spline.design/) · [React Three Fiber](https://r3f.docs.pmnd.rs/) · [ContentCore](https://contentcore.xyz/) | [Browse →](resources/3d.md) |
+| 🎨 Design Inspiration | [Recent Design](https://recent.design/) · [Pryzm Design](https://www.pryzmdesign.com/) · [In Progress Works](https://www.inprogress.works/) · [Variant](https://variant.com/) · [Vivid Sites](https://www.vividsites.app/) · [Deck.Gallery](https://www.deck.gallery/) | [Browse →](resources/inspiration.md) |
+| 🧩 UI Components | [Aceternity UI](https://ui.aceternity.com/) · [Kokonut UI](https://kokonutui.com/) · [Watermelon UI](https://ui.watermelon.sh/) · [Grayblocks](https://grayblocks.net/) · [Originkit](https://originkit.dev/) · [shadcn/ui](https://ui.shadcn.com/) · [21st.dev](https://21st.dev/) · [daisyUI](https://daisyui.com/) · [Magic UI](https://magicui.design/) | [Browse →](resources/ui-components.md) |
+| ✨ Animation & Interaction | [Motion](https://motion.dev/) · [React Spring](https://www.react-spring.dev/) · [Motion Primitives](https://motion-primitives.com/) · [Skiper UI](https://skiper-ui.com/) · [Particles by Casberry](https://particles.casberry.in/) · [DialKit](https://www.dialkit.dev/) · [Animista](https://animista.net/) · [Raylight](https://www.raylight.app/) · [FeralUI](https://feralui.dev/) · [Brik](https://brik.space/) · [Transitions.dev](https://transitions.dev/) · [Animos](https://animos.app/) · [Jitter](https://jitter.video/) | [Browse →](resources/animation.md) |
+| 🧊 3D & WebGL | [Spline](https://spline.design/) · [React Three Fiber](https://r3f.docs.pmnd.rs/) · [ContentCore](https://contentcore.xyz/) · [Threlte](https://threlte.xyz/) · [Vectary](https://www.vectary.com/) | [Browse →](resources/3d.md) |
 | 🎨 Colors | [Realtime Colors](https://www.realtimecolors.com/) | [Browse →](resources/colors.md) |
 | 🔤 Typography | — | [Browse →](resources/typography.md) |
-| 🖼️ Assets | [Optic](https://www.playgrnd.tools/optic) · [LS Graphics](https://www.ls.graphics/) · [Haikei](https://haikei.app/) | [Browse →](resources/assets.md) |
-| 🔷 Icons | [Phosphor Icons](https://phosphoricons.com/) | [Browse →](resources/icons.md) |
+| 🖼️ Assets | [Optic](https://www.playgrnd.tools/optic) · [LS Graphics](https://www.ls.graphics/) · [Haikei](https://haikei.app/) · [Backgrounds Supply](https://www.backgrounds.supply/) · [Book of Shapes](https://bookofshapes.com/) | [Browse →](resources/assets.md) |
+| 🔷 Icons | [Phosphor Icons](https://phosphoricons.com/) · [Pikaicons](https://pikaicons.com/) | [Browse →](resources/icons.md) |
 | 🤖 AI | [Ora](https://ora.ai/) | [Browse →](resources/ai.md) |
 | 🛠️ Developer Tools | — | [Browse →](resources/developer-tools.md) |
 | 📐 Design Systems | [Refero Styles](https://styles.refero.design/) | [Browse →](resources/design-systems.md) |

@@ -33,3 +33,23 @@ Website assets including images, illustrations, SVGs, and more.
 **Type:** Tool
 
 [Visit](https://haikei.app/)
+
+### Backgrounds Supply
+
+> Library of backgrounds, gradients, textures, wallpapers, and animated visual assets for digital projects.
+
+**Tags:** Backgrounds · Gradients · AI Art · Animated Backgrounds · Wallpapers · Textures · Abstract · Visual Assets · Web Design · Motion Design
+
+**Type:** Asset
+
+[Visit](https://www.backgrounds.supply/)
+
+### Book of Shapes
+
+> Collection of minimal, generative, and customizable SVG patterns for creating abstract visual assets and backgrounds.
+
+**Tags:** SVG · Generative Design · Patterns · Abstract · Backgrounds · Grid · Noise · Flow · Isometric · Organic · Creative Coding
+
+**Type:** Asset
+
+[Visit](https://bookofshapes.com/)

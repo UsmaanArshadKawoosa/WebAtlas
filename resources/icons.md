@@ -13,3 +13,13 @@ Icon libraries and icon tooling for the web.
 **Type:** Library
 
 [Visit](https://phosphoricons.com/) · [GitHub](https://github.com/phosphor-icons/homepage)
+
+### Pikaicons
+
+> Icon library offering a large collection of icons in multiple styles for modern UI and web projects.
+
+**Tags:** Icons · SVG · React · Figma · UI · Web Design · Solid · Stroke · Design Systems · Icon Library
+
+**Type:** Library
+
+[Visit](https://pikaicons.com/)

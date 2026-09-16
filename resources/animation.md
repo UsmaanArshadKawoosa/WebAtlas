@@ -83,3 +83,53 @@ Animation libraries, interaction patterns, and motion resources for the web.
 **Type:** Tool
 
 [Visit](https://www.dialkit.dev/) · [GitHub](https://github.com/joshpuckett/dialkit)
+
+### FeralUI
+
+> React and TypeScript UI experiments featuring playful, physics-driven interactive effects.
+
+**Tags:** React · TypeScript · Animation · Physics · Interactive UI · Creative Coding · WebGL · Motion · UI Experiments · 3D
+
+**Type:** Library
+
+[Visit](https://feralui.dev/)
+
+### Brik
+
+> Creative design platform for creating interactive, generative, motion, 3D, and visual design experiences.
+
+**Tags:** AI · Creative Coding · Motion Design · Generative Design · 3D · WebGL · Interactive · Kinetic Typography · Visual Effects · Design Tools · Animation
+
+**Type:** Tool
+
+[Visit](https://brik.space/)
+
+### Transitions.dev
+
+> Resources and examples for creating smooth page, view, and interface transitions for modern websites.
+
+**Tags:** Page Transitions · View Transitions · Animation · Motion · CSS · Web Design · JavaScript · UI · Interaction · Frontend
+
+**Type:** Tool
+
+[Visit](https://transitions.dev/)
+
+### Animos
+
+> Browser-based tool for creating polished animated design showcases and motion content.
+
+**Tags:** Motion Design · Animation · UI Animation · Design Showcases · Motion Templates · Video · MP4 · WebM · Portfolio · Product Design
+
+**Type:** Tool
+
+[Visit](https://animos.app/)
+
+### Jitter
+
+> Browser-based motion design tool for creating animated UI designs, product demos, motion graphics, and other visual content.
+
+**Tags:** Motion Design · Animation · UI Animation · Figma · Video · GIF · Product Demos · Motion Graphics · Prototyping · Web Design
+
+**Type:** Tool
+
+[Visit](https://jitter.video/)

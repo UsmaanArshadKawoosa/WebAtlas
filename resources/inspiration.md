@@ -63,3 +63,23 @@ A curated collection of resources for discovering exceptional website and UI des
 **Type:** Gallery
 
 [Visit](https://www.vividsites.app/)
+
+### Deck.Gallery
+
+> Curated gallery of presentation decks and slides for visual and presentation design inspiration.
+
+**Tags:** Presentation Design · Pitch Decks · Slide Design · Brand Guidelines · Typography · Layout · Visual Design · Marketing · Portfolio · Design Inspiration
+
+**Type:** Gallery
+
+[Visit](https://www.deck.gallery/)
+
+### Vivid Sites
+
+> Curated collection of visually distinctive websites for discovering modern web design and creative digital experiences.
+
+**Tags:** Web Design · Website Inspiration · Design Gallery · UI Design · Creative Websites · Visual Design · Web Development · Inspiration
+
+**Type:** Gallery
+
+[Visit](https://www.vividsites.app/)

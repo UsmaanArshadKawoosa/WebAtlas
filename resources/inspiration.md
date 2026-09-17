@@ -22,17 +22,8 @@ A curated collection of resources for discovering exceptional website and UI des
 
 **Type:** Gallery
 
-[Visit](https://www.pryzmdesign.com/)
+[Visit](https://pryzm.design/)
 
-### In Progress Works
-
-> Experimental web and digital work providing inspiration for creative website and interactive experiences.
-
-**Tags:** Web Design · Creative Development · Experiments · Digital Experiences · Inspiration · Creative Coding
-
-**Type:** Gallery
-
-[Visit](https://www.inprogress.works/)
 
 ### SkeuDesign
 

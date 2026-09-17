@@ -222,7 +222,7 @@
   },
   {
     "name": "Pryzm Design",
-    "url": "https://www.pryzmdesign.com/",
+    "url": "https://pryzm.design/",
     "category": "Design Inspiration",
     "subcategory": "Experimental Websites",
     "tags": [
@@ -349,24 +349,7 @@
     "type": "Tool",
     "free": true
   },
-  {
-    "name": "In Progress Works",
-    "url": "https://www.inprogress.works/",
-    "category": "Design Inspiration",
-    "subcategory": "Experimental Web / Creative Development",
-    "tags": [
-      "Web Design",
-      "Creative Development",
-      "Experiments",
-      "Digital Experiences",
-      "Inspiration",
-      "Creative Coding"
-    ],
-    "description": "Experimental web and digital work providing inspiration for creative website and interactive experiences.",
-    "type": "Gallery",
-    "free": true
-  },
-  {
+{
     "name": "shadcn/ui",
     "url": "https://ui.shadcn.com/",
     "category": "UI Components",

@@ -124,12 +124,3 @@ Animation libraries, interaction patterns, and motion resources for the web.
 
 [Visit](https://animos.app/)
 
-### Jitter
-
-> Browser-based motion design tool for creating animated UI designs, product demos, motion graphics, and other visual content.
-
-**Tags:** Motion Design · Animation · UI Animation · Figma · Video · GIF · Product Demos · Motion Graphics · Prototyping · Web Design
-
-**Type:** Tool
-
-[Visit](https://jitter.video/)

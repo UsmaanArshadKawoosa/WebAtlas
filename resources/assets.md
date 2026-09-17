@@ -14,15 +14,6 @@ Website assets including images, illustrations, SVGs, and more.
 
 [Visit](https://www.playgrnd.tools/optic)
 
-### LS Graphics
-
-> Design asset library offering graphics, illustrations, 3D resources, mockups, animations, and other visual assets for digital and web design.
-
-**Tags:** Graphics · Illustrations · 3D · Mockups · Animations · Design Assets · Textures · Web Design · Figma · Creative Assets
-
-**Type:** Asset
-
-[Visit](https://www.ls.graphics/)
 
 ### Haikei
 

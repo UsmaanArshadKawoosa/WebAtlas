@@ -168,22 +168,6 @@
     "github": "https://github.com/ibelick/motion-primitives"
   },
   {
-    "name": "Grayblocks",
-    "url": "https://grayblocks.net/",
-    "category": "UI Components",
-    "subcategory": "Component Libraries",
-    "tags": [
-      "Components",
-      "Figma",
-      "Framer",
-      "Webflow",
-      "Blocks"
-    ],
-    "description": "5600+ blocks and components for Figma, Framer, and Webflow. Build and launch premium websites faster.",
-    "type": "Library",
-    "free": false
-  },
-  {
     "name": "Bklit UI",
     "url": "https://bklit.com/",
     "category": "UI Components",
@@ -486,48 +470,7 @@
     ],
     "github": "https://github.com/phosphor-icons/homepage"
   },
-  {
-    "name": "LS Graphics",
-    "url": "https://www.ls.graphics/",
-    "category": "Assets",
-    "subcategory": "Illustrations, Mockups & 3D",
-    "tags": [
-      "Graphics",
-      "Illustrations",
-      "3D",
-      "Mockups",
-      "Animations",
-      "Design Assets",
-      "Textures",
-      "Web Design",
-      "Figma",
-      "Creative Assets"
-    ],
-    "description": "Design asset library offering graphics, illustrations, 3D resources, mockups, animations, and other visual assets for digital and web design.",
-    "type": "Asset",
-    "free": false
-  },
-  {
-    "name": "ContentCore",
-    "url": "https://contentcore.xyz/",
-    "category": "3D & WebGL",
-    "subcategory": "3D Assets & Templates",
-    "tags": [
-      "3D",
-      "3D Mockups",
-      "3D Motion",
-      "Motion Templates",
-      "3D Text",
-      "Logos",
-      "3D Icons",
-      "3D Shapes",
-      "Design Assets",
-      "Motion Design"
-    ],
-    "description": "Library of 3D design assets and templates including 3D mockups, motion templates, 3D text and logos, icons, and 3D shapes.",
-    "type": "Asset",
-    "free": true
-  },
+
   {
     "name": "SmoothUI",
     "url": "https://smoothui.dev/",
@@ -614,25 +557,6 @@
     ],
     "description": "AI-powered design exploration platform for generating and exploring visual design variations.",
     "type": "Tool",
-    "free": true
-  },
-  {
-    "name": "Animaster",
-    "url": "https://www.animaster.com/",
-    "category": "Learning",
-    "subcategory": "Animation, VFX & Design Education",
-    "tags": [
-      "Animation",
-      "VFX",
-      "3D",
-      "Graphic Design",
-      "Game Art",
-      "Motion Graphics",
-      "Design Education",
-      "Learning"
-    ],
-    "description": "Design education platform offering training across animation, VFX, 3D, graphic design, game art, and related creative disciplines.",
-    "type": "Guide",
     "free": true
   },
   {
@@ -925,45 +849,6 @@
     "description": "Framework for building interactive 3D experiences with Three.js and Svelte.",
     "type": "Library",
     "free": true
-  },
-  {
-    "name": "Vectary",
-    "url": "https://www.vectary.com/",
-    "category": "3D & WebGL",
-    "subcategory": "3D Design / Modeling",
-    "tags": [
-      "3D",
-      "CAD",
-      "Modeling",
-      "Web Design",
-      "AR",
-      "Product Design",
-      "3D Assets",
-      "Interactive"
-    ],
-    "description": "Browser-based 3D design and modeling platform for creating and presenting interactive 3D content.",
-    "type": "Tool",
-    "free": true
-  },
-  {
-    "name": "Jitter",
-    "url": "https://jitter.video/",
-    "category": "Animation & Interaction",
-    "subcategory": "Motion Design Tools",
-    "tags": [
-      "Motion Design",
-      "Animation",
-      "UI Animation",
-      "Figma",
-      "Video",
-      "GIF",
-      "Product Demos",
-      "Motion Graphics",
-      "Prototyping",
-      "Web Design"
-    ],
-    "description": "Browser-based motion design tool for creating animated UI designs, product demos, motion graphics, and other visual content.",
-    "type": "Tool",
-    "free": true
   }
 ]
+

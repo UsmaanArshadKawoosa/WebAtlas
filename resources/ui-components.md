@@ -34,15 +34,6 @@ Reusable UI components and component libraries for building modern interfaces.
 
 [Visit](https://kokonutui.com/) · [GitHub](https://github.com/kokonut-labs/kokonutui)
 
-### Grayblocks
-
-> 5600+ blocks and components for Figma, Framer, and Webflow. Build and launch premium websites faster.
-
-**Tags:** Components · Figma · Framer · Webflow · Blocks
-
-**Type:** Library
-
-[Visit](https://grayblocks.net/)
 
 ### Originkit
 

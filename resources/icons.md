@@ -23,3 +23,13 @@ Icon libraries and icon tooling for the web.
 **Type:** Library
 
 [Visit](https://pikaicons.com/)
+
+### Iconbuddy
+
+> Search and download 300,000+ open-source SVG icons in multiple formats and styles.
+
+**Tags:** Icons · SVGs · Library
+
+**Type:** Library
+
+[Visit](https://iconbuddy.com/)

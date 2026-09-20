@@ -124,3 +124,23 @@ Animation libraries, interaction patterns, and motion resources for the web.
 
 [Visit](https://animos.app/)
 
+### Cursor Lab UI
+
+> Collection of animated cursor, pointer, trail, and field UI effects for modern websites.
+
+**Tags:** Animation · Interactive · Micro-interactions
+
+**Type:** Library
+
+[Visit](https://cursor-lab-ui.vercel.app/)
+
+### Anime.js
+
+> Lightweight JavaScript animation library for animating DOM, CSS, SVG, and JavaScript objects with timelines and WAAPI support.
+
+**Tags:** JavaScript · Animation · Library · Open Source
+
+**Type:** Library
+
+[Visit](https://animejs.com/) · [GitHub](https://github.com/juliangarnier/anime)
+

@@ -64,3 +64,43 @@ A curated collection of resources for discovering exceptional website and UI des
 **Type:** Gallery
 
 [Visit](https://www.vividsites.app/)
+
+### Footer Design
+
+> Curated gallery of website footer designs for exploring navigation, layout, and interaction patterns.
+
+**Tags:** Gallery · Footer · Design Inspiration
+
+**Type:** Gallery
+
+[Visit](https://www.footer.design/)
+
+### Mobbin
+
+> Curated collection of web app designs for exploring modern UI patterns and interaction design.
+
+**Tags:** Gallery · Design Inspiration · UI Design
+
+**Type:** Gallery
+
+[Visit](https://mobbin.com/discover/apps/web/latest)
+
+### Navbar Gallery
+
+> Curated gallery of navigation bar designs for discovering navbar patterns and interactions.
+
+**Tags:** Gallery · Navigation · Design Inspiration
+
+**Type:** Gallery
+
+[Visit](https://www.navbar.gallery/)
+
+### Supahero
+
+> Curated collection of website hero sections for landing page inspiration and design reference.
+
+**Tags:** Gallery · Landing Page · Design Inspiration
+
+**Type:** Gallery
+
+[Visit](https://supahero.io/)

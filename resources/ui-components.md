@@ -114,3 +114,63 @@ Reusable UI components and component libraries for building modern interfaces.
 **Type:** Library
 
 [Visit](https://magicui.design/)
+
+### Cue
+
+> Awwwards-tier UI component library with AI prompts for recreating web interactions in Cursor, v0, Bolt, Framer, and Claude.
+
+**Tags:** React · Components · Library · AI
+
+**Type:** Library
+
+[Visit](https://www.cuedesign.space/)
+
+### Bencho
+
+> Library of interactive UI blocks you can explore, tweak, and take straight into your projects.
+
+**Tags:** React · Blocks · Interactive · Components
+
+**Type:** Library
+
+[Visit](https://bencho.dev/)
+
+### Evil Buttons
+
+> shadcn/ui registry of interactive button components with live previews, docs, and CLI installs.
+
+**Tags:** React · shadcn · Components · Animation · Library
+
+**Type:** Library
+
+[Visit](https://www.evilbuttons.com/)
+
+### Uiverse
+
+> Community-built library of open-source UI elements. Copy as HTML/CSS, Tailwind, React, and Figma.
+
+**Tags:** React · Components · Library · Open Source
+
+**Type:** Library
+
+[Visit](https://uiverse.io/)
+
+### Libraries.dev
+
+> High-crafted React UI libraries for AI agents, including border beam, orbs, gooey, and liquid metal effects.
+
+**Tags:** React · Library · AI
+
+**Type:** Library
+
+[Visit](https://libraries.dev/)
+
+### React Bits
+
+> 200+ highly customizable animated React components and backgrounds for modern web interfaces.
+
+**Tags:** React · Animation · Components · Library
+
+**Type:** Library
+
+[Visit](https://reactbits.dev/)

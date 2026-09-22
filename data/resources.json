@@ -1133,5 +1133,251 @@
         "open_source": true,
         "free": true,
         "github": "https://github.com/juliangarnier/anime"
+    },
+    {
+        "name": "UX Dictionary",
+        "url": "https://uxdictionary.io/",
+        "category": "Learning",
+        "subcategory": "",
+        "tags": [
+            "UX",
+            "Glossary",
+            "Design Education"
+        ],
+        "description": "Design publication and glossary with essays and clear definitions covering UX, UI, research, and design systems.",
+        "type": "Guide",
+        "free": true
+    },
+    {
+        "name": "Designercize",
+        "url": "https://designercize.com/",
+        "category": "Learning",
+        "subcategory": "",
+        "tags": [
+            "Design Challenges",
+            "Whiteboard",
+            "Practice"
+        ],
+        "description": "Random prompt generator for timed whiteboard design practice sessions.",
+        "type": "Tool",
+        "free": true
+    },
+    {
+        "name": "Figma Ninja",
+        "url": "https://www.figma.com/community/file/769694576496801916/figma-ninja-speed-up-your-figma-skills",
+        "category": "Learning",
+        "subcategory": "",
+        "tags": [
+            "Figma",
+            "Design Education",
+            "Practice"
+        ],
+        "description": "Figma Community resource for practicing and improving Figma design skills.",
+        "type": "Guide",
+        "free": true
+    },
+    {
+        "name": "Uppbeat",
+        "url": "https://uppbeat.io/",
+        "category": "Assets",
+        "subcategory": "Music & Audio",
+        "tags": [
+            "Music",
+            "Sound Effects",
+            "Stock Video",
+            "Motion Graphics",
+            "Royalty-Free"
+        ],
+        "description": "Royalty-free music, sound effects, stock video, motion graphics, and LUTs library for creators.",
+        "type": "Asset",
+        "free": true
+    },
+    {
+        "name": "Best Free Fonts",
+        "url": "https://bestfreefonts.com/",
+        "category": "Typography",
+        "subcategory": "Font Libraries",
+        "tags": [
+            "Typography",
+            "Fonts",
+            "Free"
+        ],
+        "description": "Curated selection of 214 free fonts across serif, sans-serif, script, and monospace styles.",
+        "type": "Library",
+        "free": true
+    },
+    {
+        "name": "Logo System",
+        "url": "https://logosystem.co/",
+        "category": "Design Inspiration",
+        "subcategory": "Design Galleries",
+        "tags": [
+            "Gallery",
+            "Logo Design",
+            "Brand Identity",
+            "Design Inspiration"
+        ],
+        "description": "Curated gallery of 1,300+ logos, wordmarks, symbols, and animated logos for brand identity inspiration.",
+        "type": "Gallery",
+        "free": true
+    },
+    {
+        "name": "Pafolios",
+        "url": "https://pafolios.com/",
+        "category": "Design Inspiration",
+        "subcategory": "Portfolio Inspiration",
+        "tags": [
+            "Gallery",
+            "Portfolio",
+            "Design Inspiration",
+            "Web Design"
+        ],
+        "description": "Curated collection of design portfolio examples for inspiration and reference.",
+        "type": "Gallery",
+        "free": true
+    },
+    {
+        "name": "Jitter",
+        "url": "https://jitter.video/",
+        "category": "Animation & Interaction",
+        "subcategory": "Motion Design / Video",
+        "tags": [
+            "Animation",
+            "Motion Design",
+            "Video",
+            "Tool"
+        ],
+        "description": "Collaborative motion design tool for creating professional animations and motion graphics.",
+        "type": "Tool",
+        "free": true
+    },
+    {
+        "name": "Lenis",
+        "url": "https://lenis.dev/",
+        "category": "Animation & Interaction",
+        "subcategory": "Scroll Animations",
+        "tags": [
+            "Animation",
+            "Scroll",
+            "JavaScript",
+            "Library",
+            "Open Source"
+        ],
+        "description": "Open-source smooth scroll library for creating silky, controllable scroll experiences.",
+        "type": "Library",
+        "open_source": true,
+        "free": true,
+        "github": "https://github.com/darkroomengineering/lenis"
+    },
+    {
+        "name": "GSAP",
+        "url": "https://gsap.com/",
+        "category": "Animation & Interaction",
+        "subcategory": "Animation Libraries",
+        "tags": [
+            "JavaScript",
+            "Animation",
+            "Library",
+            "Open Source"
+        ],
+        "description": "Professional-grade JavaScript animation library for animating DOM, SVG, and WebGL with plugins.",
+        "type": "Library",
+        "open_source": true,
+        "free": true,
+        "github": "https://github.com/greensock/GreenSock-JS"
+    },
+    {
+        "name": "Vanta.js",
+        "url": "https://www.vantajs.com/",
+        "category": "Animation & Interaction",
+        "subcategory": "Particle Effects",
+        "tags": [
+            "Animation",
+            "WebGL",
+            "Backgrounds",
+            "Interactive"
+        ],
+        "description": "Lightweight library for animated 3D website backgrounds using Three.js and p5.js.",
+        "type": "Library",
+        "open_source": true,
+        "free": true,
+        "github": "https://github.com/tengbao/vanta"
+    },
+    {
+        "name": "Layers",
+        "url": "https://www.getlayers.ai/",
+        "category": "AI",
+        "subcategory": "",
+        "tags": [
+            "AI",
+            "Templates",
+            "3D",
+            "Gradients",
+            "Design"
+        ],
+        "description": "AI-native library of cinematic website templates, 3D scenes, gradients, sections, and backgrounds.",
+        "type": "Library",
+        "free": true
+    },
+    {
+        "name": "DesignMD",
+        "url": "https://designmd.me/",
+        "category": "Design Systems",
+        "subcategory": "",
+        "tags": [
+            "Design Systems",
+            "DESIGN.md",
+            "Design Tokens",
+            "AI"
+        ],
+        "description": "Extracts structured DESIGN.md design systems from any website with live preview and Figma import.",
+        "type": "Tool",
+        "free": true
+    },
+    {
+        "name": "Design Spells",
+        "url": "https://designspells.com/",
+        "category": "Animation & Interaction",
+        "subcategory": "Micro-interactions",
+        "tags": [
+            "Animation",
+            "Micro-interactions",
+            "Design Inspiration",
+            "UI"
+        ],
+        "description": "Curated collection of design details, micro-interactions, and animated UI effects.",
+        "type": "Gallery",
+        "free": true
+    },
+    {
+        "name": "Open Motion",
+        "url": "https://openmotion.design/",
+        "category": "Animation & Interaction",
+        "subcategory": "Motion Design / Video",
+        "tags": [
+            "Motion Design",
+            "Animation",
+            "Video",
+            "AI"
+        ],
+        "description": "AI-powered motion design tool for creating launch videos and motion graphics.",
+        "type": "Tool",
+        "free": true
+    },
+    {
+        "name": "Grainrad",
+        "url": "https://grainrad.com/",
+        "category": "Assets",
+        "subcategory": "Textures",
+        "tags": [
+            "Textures",
+            "Grain",
+            "Noise",
+            "Visual Effects",
+            "Image Effects"
+        ],
+        "description": "Image and video effects tool for applying ASCII, dithering, halftone, noise, and other visual effects.",
+        "type": "Tool",
+        "free": true
     }
 ]

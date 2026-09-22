@@ -13,3 +13,13 @@ AI tools relevant to website design and development.
 **Type:** Tool
 
 [Visit](https://ora.ai/)
+
+### Layers
+
+> AI-native library of cinematic website templates, 3D scenes, gradients, sections, and backgrounds.
+
+**Tags:** AI · Templates · 3D · Gradients · Design
+
+**Type:** Library
+
+[Visit](https://www.getlayers.ai/)

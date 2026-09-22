@@ -144,3 +144,63 @@ Animation libraries, interaction patterns, and motion resources for the web.
 
 [Visit](https://animejs.com/) · [GitHub](https://github.com/juliangarnier/anime)
 
+### Jitter
+
+> Collaborative motion design tool for creating professional animations and motion graphics.
+
+**Tags:** Animation · Motion Design · Video · Tool
+
+**Type:** Tool
+
+[Visit](https://jitter.video/)
+
+### Lenis
+
+> Open-source smooth scroll library for creating silky, controllable scroll experiences.
+
+**Tags:** Animation · Scroll · JavaScript · Library · Open Source
+
+**Type:** Library
+
+[Visit](https://lenis.dev/) · [GitHub](https://github.com/darkroomengineering/lenis)
+
+### GSAP
+
+> Professional-grade JavaScript animation library for animating DOM, SVG, and WebGL with plugins.
+
+**Tags:** JavaScript · Animation · Library · Open Source
+
+**Type:** Library
+
+[Visit](https://gsap.com/) · [GitHub](https://github.com/greensock/GreenSock-JS)
+
+### Vanta.js
+
+> Lightweight library for animated 3D website backgrounds using Three.js and p5.js.
+
+**Tags:** Animation · WebGL · Backgrounds · Interactive
+
+**Type:** Library
+
+[Visit](https://www.vantajs.com/) · [GitHub](https://github.com/tengbao/vanta)
+
+### Design Spells
+
+> Curated collection of design details, micro-interactions, and animated UI effects.
+
+**Tags:** Animation · Micro-interactions · Design Inspiration · UI
+
+**Type:** Gallery
+
+[Visit](https://designspells.com/)
+
+### Open Motion
+
+> AI-powered motion design tool for creating launch videos and motion graphics.
+
+**Tags:** Motion Design · Animation · Video · AI
+
+**Type:** Tool
+
+[Visit](https://openmotion.design/)
+

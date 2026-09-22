@@ -53,3 +53,33 @@ High-quality learning resources for web design, frontend development, and creati
 **Type:** Guide
 
 [Visit](https://www.uichallenges.design/)
+
+### UX Dictionary
+
+> Design publication and glossary with essays and clear definitions covering UX, UI, research, and design systems.
+
+**Tags:** UX · Glossary · Design Education
+
+**Type:** Guide
+
+[Visit](https://uxdictionary.io/)
+
+### Designercize
+
+> Random prompt generator for timed whiteboard design practice sessions.
+
+**Tags:** Design Challenges · Whiteboard · Practice
+
+**Type:** Tool
+
+[Visit](https://designercize.com/)
+
+### Figma Ninja
+
+> Figma Community resource for practicing and improving Figma design skills.
+
+**Tags:** Figma · Design Education · Practice
+
+**Type:** Guide
+
+[Visit](https://www.figma.com/community/file/769694576496801916/figma-ninja-speed-up-your-figma-skills)

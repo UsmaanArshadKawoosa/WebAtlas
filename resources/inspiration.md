@@ -104,3 +104,23 @@ A curated collection of resources for discovering exceptional website and UI des
 **Type:** Gallery
 
 [Visit](https://supahero.io/)
+
+### Logo System
+
+> Curated gallery of 1,300+ logos, wordmarks, symbols, and animated logos for brand identity inspiration.
+
+**Tags:** Gallery · Logo Design · Brand Identity · Design Inspiration
+
+**Type:** Gallery
+
+[Visit](https://logosystem.co/)
+
+### Pafolios
+
+> Curated collection of design portfolio examples for inspiration and reference.
+
+**Tags:** Gallery · Portfolio · Design Inspiration · Web Design
+
+**Type:** Gallery
+
+[Visit](https://pafolios.com/)

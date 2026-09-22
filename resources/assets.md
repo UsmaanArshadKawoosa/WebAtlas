@@ -44,3 +44,23 @@ Website assets including images, illustrations, SVGs, and more.
 **Type:** Asset
 
 [Visit](https://bookofshapes.com/)
+
+### Uppbeat
+
+> Royalty-free music, sound effects, stock video, motion graphics, and LUTs library for creators.
+
+**Tags:** Music · Sound Effects · Stock Video · Motion Graphics · Royalty-Free
+
+**Type:** Asset
+
+[Visit](https://uppbeat.io/)
+
+### Grainrad
+
+> Image and video effects tool for applying ASCII, dithering, halftone, noise, and other visual effects.
+
+**Tags:** Textures · Grain · Noise · Visual Effects · Image Effects
+
+**Type:** Tool
+
+[Visit](https://grainrad.com/)

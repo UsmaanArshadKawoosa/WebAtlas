@@ -13,3 +13,13 @@ Resources for website typography, fonts, and type systems.
 **Type:** Library
 
 [Visit](https://bestfreefonts.com/)
+
+### Free Faces
+
+> Curated collection of free typefaces available under various free licenses, with direct links to font pages and licensing information.
+
+**Tags:** Typography · Fonts · Free Fonts
+
+**Type:** Library
+
+[Visit](https://www.freefaces.gallery/)

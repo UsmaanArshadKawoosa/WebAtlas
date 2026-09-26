@@ -174,3 +174,13 @@ Reusable UI components and component libraries for building modern interfaces.
 **Type:** Library
 
 [Visit](https://reactbits.dev/)
+
+### Atheros AI Builder
+
+> AI-powered UI component builder with 340+ production-ready component templates for React, vanilla, and TypeScript projects.
+
+**Tags:** React · Components · AI · Templates · Tool
+
+**Type:** Tool
+
+[Visit](https://builder.atheros.ai/)

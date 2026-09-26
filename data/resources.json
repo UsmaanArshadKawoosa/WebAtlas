@@ -1379,5 +1379,35 @@
         "description": "Image and video effects tool for applying ASCII, dithering, halftone, noise, and other visual effects.",
         "type": "Tool",
         "free": true
+    },
+    {
+        "name": "Atheros AI Builder",
+        "url": "https://builder.atheros.ai/",
+        "category": "UI Components",
+        "subcategory": "Component Libraries",
+        "tags": [
+            "React",
+            "Components",
+            "AI",
+            "Templates",
+            "Tool"
+        ],
+        "description": "AI-powered UI component builder with 340+ production-ready component templates for React, vanilla, and TypeScript projects.",
+        "type": "Tool",
+        "free": true
+    },
+    {
+        "name": "Free Faces",
+        "url": "https://www.freefaces.gallery/",
+        "category": "Typography",
+        "subcategory": "Font Libraries",
+        "tags": [
+            "Typography",
+            "Fonts",
+            "Free Fonts"
+        ],
+        "description": "Curated collection of free typefaces available under various free licenses, with direct links to font pages and licensing information.",
+        "type": "Library",
+        "free": true
     }
 ]

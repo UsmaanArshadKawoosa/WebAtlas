@@ -1409,5 +1409,53 @@
         "description": "Curated collection of free typefaces available under various free licenses, with direct links to font pages and licensing information.",
         "type": "Library",
         "free": true
+    },
+    {
+        "name": "DesignMD Library",
+        "url": "https://designmd.app/library",
+        "category": "Design Systems",
+        "subcategory": "",
+        "tags": [
+            "Design Systems",
+            "DESIGN.md",
+            "AI",
+            "Library"
+        ],
+        "description": "Library of 759+ documented design systems in DESIGN.md format, ready for use with AI agents.",
+        "type": "Library",
+        "free": true
+    },
+    {
+        "name": "Neuform AI",
+        "url": "https://neuform.ai/",
+        "category": "AI",
+        "subcategory": "",
+        "tags": [
+            "AI",
+            "Website Builder",
+            "HTML",
+            "DESIGN.md",
+            "Templates"
+        ],
+        "description": "AI-powered HTML landing page builder that turns prompts into remix-ready templates with reusable DESIGN.md design systems.",
+        "type": "Tool",
+        "free": null
+    },
+    {
+        "name": "Mesh3D Gallery",
+        "url": "https://mesh3d.gallery/websites",
+        "category": "3D & WebGL",
+        "subcategory": "WebGL",
+        "tags": [
+            "WebGL",
+            "Three.js",
+            "3D",
+            "Gallery",
+            "Interactive",
+            "Websites"
+        ],
+        "description": "Curated gallery of interactive Three.js and WebGL website experiences.",
+        "type": "Gallery",
+        "free": true
     }
 ]

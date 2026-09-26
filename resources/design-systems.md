@@ -23,3 +23,13 @@ Resources for building consistent, scalable interfaces.
 **Type:** Tool
 
 [Visit](https://designmd.me/)
+
+### DesignMD Library
+
+> Library of 759+ documented design systems in DESIGN.md format, ready for use with AI agents.
+
+**Tags:** Design Systems · DESIGN.md · AI · Library
+
+**Type:** Library
+
+[Visit](https://designmd.app/library)
